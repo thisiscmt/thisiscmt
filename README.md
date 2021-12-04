@@ -1,2 +1,1 @@
-# Personal Site
-This is the source for what lives at the root of the cmtybur.com domain.
+I'm a seasoned software devleoper who likes to write great user interfaces and make things work well together.
